@@ -1,8 +1,0 @@
-{
-  "build": {
-    "command": "npm run build"
-  },
-  "start": {
-    "command": "npx serve dist -s -l 8080"
-  }
-}
